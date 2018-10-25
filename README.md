@@ -1,6 +1,6 @@
 # python_excel_automation
 This project used python, openpyxl, and excel to automation the process of inserting data into the excel sheet which reducing a large amount of time to manually doing those work
-I want to write a summary of how to use the scripts in here. So, we can go through the process smoothly tomorrow. As you recommended, the user has to create the following folders and paths:
+I want to write a summary of how to use the scripts in here. 
 C:\reports 
 C:\reports\inputs ( all the raw excel file will be stored in here)
 C:\reports\outputs
